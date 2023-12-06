@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 095907e022ff3cb4ba47457d86b96306, type: 3}
+  m_Name: Level_01
+  m_EditorClassIdentifier: 
+  levelName: Level 1
+  levelCountdownTimerStartingValue: 20
+  timeRemainingInSeconds: 14.780923
+  levelThisSORelatesTo: 2
+  levelToComeNext: 3
+  levelToComeNextInfoObject: {fileID: 11400000, guid: 66f9edd6f09f38049b1cd4ce86da513d, type: 2}
+  levelEndCanBeProgressed: 0
+  levelIsPaused: 0
+  levelHasBeenCompleted: 1
+  levelStarCollected: 1
+  levelCanBeLoadedFromLevelSelect: 1
+  coinsCollected: 9
+  levelCompletionTimeInSeconds: 6
+  fastestLevelCompleteTime: 6
+  overallScore: 505
